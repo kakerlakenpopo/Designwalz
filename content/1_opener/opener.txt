@@ -1,0 +1,3 @@
+title: Opener
+----
+opener_pic: content/1_opener/sticker.svg

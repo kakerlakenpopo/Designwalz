@@ -1,0 +1,169 @@
+title: Experience
+icon: 💪
+columns:
+  # main
+  - width: 1/1
+    sections:
+      top:
+        type: fields
+        fields:
+          secTitle:
+            label: Experience-Sectione title
+            type: text
+
+
+
+
+  - width: 1/3
+    sections:
+
+      # Sterling Enterpeneur
+      Enterpeneur:
+        type: fields
+        fields:
+          title_sterling:
+            label: Firm
+            type:  text
+          location_sterling:
+            label: Location/s
+            type:  text
+          time_sterling:
+            label: Period
+            type:  text
+          text_sterling:
+            label: Description ktr
+            type:  textarea
+
+  - width: 1/3
+    sections:
+
+      # Galenos Health Network
+      Galenos:
+        type: fields
+        fields:
+          title_galenos:
+            label: Firm
+            type:  text
+          location_galenos:
+            label: Location/s
+            type:  text
+          time_galenos:
+            label: Period
+            type:  text
+          text_galenos:
+            label: Description ktr
+            type:  textarea
+
+  - width: 1/3
+    sections:
+
+      # Galenos Health Network
+      MEDICA:
+        type: fields
+        fields:
+          title_MEDICA:
+            label: Firm
+            type:  text
+          location_MEDICA:
+            label: Location/s
+            type:  text
+          time_MEDICA:
+            label: Period
+            type:  text
+          text_MEDICA:
+            label: Description ktr
+            type:  textarea
+
+  - width: 1/3
+    sections:
+
+      # Michael Page
+      page:
+        type: fields
+        fields:
+          title_page:
+            label: Firm
+            type:  text
+          location_page:
+            label: Location/s
+            type:  text
+          time_page:
+            label: Period
+            type:  text
+          text_page:
+            label: Description ktr
+            type:  textarea
+
+  - width: 1/3
+    sections:
+
+      # Michael Page
+      ProGlobal:
+        type: fields
+        fields:
+          title_ProGlobal:
+            label: Firm
+            type:  text
+          location_ProGlobal:
+            label: Location/s
+            type:  text
+          time_ProGlobal:
+            label: Period
+            type:  text
+          text_ProGlobal:
+            label: Description ktr
+            type:  textarea
+  - width: 1/3
+    sections:
+
+      # Michael Page
+      Philips:
+        type: fields
+        fields:
+          title_Philips:
+            label: Firm
+            type:  text
+          location_Philips:
+            label: Location/s
+            type:  text
+          time_Philips:
+            label: Period
+            type:  text
+          text_Philips:
+            label: Description ktr
+            type:  textarea
+  - width: 1/3
+    sections:
+      uni_HH:
+        type: fields
+        fields:
+          title_uni_HH:
+            label: Firm
+            type:  text
+          location_uni_HH:
+            label: Location/s
+            type:  text
+          time_uni_HH:
+            label: Period
+            type:  text
+          text_uni_HH:
+            label: Description ktr
+            type:  textarea
+
+  - width: 1/2
+    sections:
+      Legend:
+        type: fields
+        fields:
+          legend_care:
+            label: Legend / Blue / Care
+            type:  text
+          legend_accounting:
+            label: Legend / Green / Accounting
+            type:  text
+          legend_international:
+            label: Legend / Yellow / International
+            type:  text
+          legend_managment:
+            label: Legend / Red / Managment
+            type:  text

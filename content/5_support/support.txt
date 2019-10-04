@@ -1,0 +1,17 @@
+title: support
+----
+
+support_text: A network is better build up together, so you are invited to take part in it!
+We are open for any suggestions or feedback – in person or via mail – and looking forward to hearing about your ideas!
+
+----
+support_button: support us
+----
+donate_text: To continue our work and to pay for the necessities unfortunately we also need some money (website programming, web space, organization, etc.). You can also support this project by donating.
+----
+donate_button: donate!
+----
+mail: hello@sterlingsimpsonjohnson.com
+----
+subject: Hello Sterling
+----

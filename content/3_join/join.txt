@@ -1,0 +1,21 @@
+Title: join
+
+----
+walzer: »That sounds great! I finished my studies in a design subject and want to go on a Design Walz.«
+Click here and write us – we will be in touch.
+
+
+
+----
+
+walzer_button: join as Walzer
+
+----
+
+host: »Sounds awesome! We want to be part of that.«
+If you are able to host a Walzer, get listed that a Walzer can join your company or agency for a while.
+Click here and write us – we will be in touch.
+
+----
+
+host_button: join as Host

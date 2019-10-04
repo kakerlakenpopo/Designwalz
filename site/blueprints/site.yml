@@ -1,0 +1,10 @@
+
+title: Site
+pages: true
+
+columns:
+  - width: 2/4
+    sections:
+      pages:
+        headline: Sections
+        type: pages

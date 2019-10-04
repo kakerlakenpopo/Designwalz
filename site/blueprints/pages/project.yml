@@ -1,0 +1,130 @@
+title: Project
+icon: 👔
+
+columns:
+  # main
+  - width: 1/1
+    sections:
+      top:
+        type: fields
+        fields:
+          secTitle:
+            label: Project-Sectione title
+            type: text
+
+  - width: 1/3
+    sections:
+      producer:
+        type: fields
+        fields:
+          h_producer:
+            label: Headline Producer
+            type:  text
+          producer:
+            label: Description ktr
+            type:  textarea
+  - width: 1/3
+    sections:
+      BarriersP:
+        type: fields
+        fields:
+          barriesP:
+            label: Description ktr
+            type:  textarea
+          barriesP_m:
+            label: mobile placeholder
+            type:  text
+  - width: 1/3
+    sections:
+      locals:
+        type: fields
+        fields:
+          h_locals:
+            label: Headline Locals
+            type:  text
+          locals:
+            label: Description ktr
+            type:  textarea
+  - width: 2/3
+    sections:
+      BarriersL:
+        type: fields
+        fields:
+          barriesL:
+            label: Description ktr
+            type:  textarea
+          barriesL_m:
+            label: mobile placeholder
+            type:  text
+  - width: 2/3
+    sections:
+      Intermediaries:
+        type: fields
+        fields:
+          H-interm:
+            label: Headline Intermediaries
+            type:  text
+          Interm:
+            label: Description ktr
+            type:  textarea
+
+  - width: 1/2
+    sections:
+      Legend:
+        type: fields
+        fields:
+          legend_producer:
+            label: Legend / Producer
+            type:  text
+          legend_locals:
+            label: Legend / Locals
+            type:  text
+          legend_InterM:
+            label: Legend / Intermediaries
+            type:  text
+          legend_supply:
+            label: Legend / Red arrow
+            type:  text
+          legend_communication:
+            label: Legend / Communication
+            type:  text
+
+# status:
+#   draft: true
+#   listed: true
+#
+# options:
+#   url: false
+#   delete: false
+#
+# columns:
+#   - width: 1/2
+#     fields:
+#       text:
+#         label: Text
+#         type: textarea
+#         size: huge
+#
+#   - width: 1/2
+#     fields:
+#       address:
+#         label: Address
+#         type: textarea
+#       email:
+#         label: Email
+#         type: email
+#       phone:
+#         label: Phone
+#         type: tel
+#       social:
+#         label: On the web
+#         type: structure
+#         fields:
+#           platform:
+#             label: Platform
+#             type: text
+#             width: 1/2
+#           url:
+#             label: URL
+#             type: url
+#             width: 1/2

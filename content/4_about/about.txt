@@ -1,0 +1,43 @@
+title: about
+----
+secTitle: About
+----
+text: The Design Walz is a nonprofit project that helps young designers and creative people to travel and work in different agencies or companies while being able to focus on their creativity rather than money. We want to build a network and community that supports everybody in Design Walz and makes connecting Walzers and Hosts easier.
+----
+alex_pic: content/4_about/alexander_boenninger.jpg
+----
+alex_zitat: »I was on my Walz for one year and, in addition to insights into various areas, I was able to make many contacts. I will not forget that time.«
+
+----
+
+alex_name: Alexander Bönninger
+----
+alex_job: Kommunktationsdesigner
+----
+alex_web_1: www.alexanderboenninger.de
+----
+alex_web_2: walz.alexanderboenninger.de
+----
+alex_mail: hallo@alexanderboenninger.de
+----
+
+
+
+
+veronika_pic: content/4_about/veronika_kaiping.jpg
+----
+veronika_zitat: »During my walz I was able to try out areas I had not even tested while studying. I am grateful for the fun and inspiring collaboration that still lasts.«
+
+----
+veronika_name: Veronika Kaiping
+----
+veronika_job: Industriedesignerin
+----
+veronika_web_1: www.veronikakaiping.de
+----
+veronika_web_2: designjahre.veronikakaiping.de
+----
+veronika_mail: veronika.kaiping@googlemail.com
+----
+subject: Hello Sterling
+----
