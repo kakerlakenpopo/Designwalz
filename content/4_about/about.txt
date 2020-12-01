@@ -1,4 +1,4 @@
-title: about
+etitle: about
 ----
 secTitle: About
 ----
@@ -31,7 +31,7 @@ veronika_zitat: »During my walz I was able to try out areas I had not even test
 ----
 veronika_name: Veronika Kaiping
 ----
-veronika_job: Industriedesignerin
+veronika_job: Integrierte Designerin
 ----
 veronika_web_1: www.veronikakaiping.de
 ----
